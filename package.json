@@ -4,7 +4,8 @@
   "description": "NodeJS library for GUI ripping on web applications",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "server": "http-server"
   },
   "repository": {
     "type": "git",
