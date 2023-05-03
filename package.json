@@ -4,7 +4,8 @@
   "description": "NodeJS library for GUI ripping on web applications",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js",
+    "server": "http-server"
   },
   "repository": {
     "type": "git",
